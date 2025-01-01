@@ -13,7 +13,7 @@ As a **Big Data Engineer**, I specialize in:
 
 - **Database Management**: Extensive experience with both relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases. Strong in writing complex queries, optimizing performance, and ensuring data integrity.
 
-- **Cloud Platforms**: Proficient in AWS and Azure environments, with experience in leveraging cloud services for scalable data solutions.
+- **Cloud Platforms**: Proficient in Azure environments, with experience in leveraging cloud services for scalable data solutions.
 
 - **Data Visualization**: Expertise in using tool **Power BI** to create interactive dashboards and communicate insights to stakeholders.
 
